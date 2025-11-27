@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Daniel 👋
 
-<!--
-**dan-gan/dan-gan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd-year Software Engineering student at Concordia University.  
+I enjoy building practical projects and improving my full-stack and systems skills.
 
-Here are some ideas to get you started:
+### Recent Project
+- **SOEN 341 – Event Platform**  
+  Full-stack web app for event browsing, calendars, maps, QR tickets, and admin tools.  
+  Repo: https://github.com/Arceton500/SOEN-341-Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+- Full-stack development (React, Node.js)
+- Java, C, and data structures/algorithms
+- Systems, backend, and project architecture
+
