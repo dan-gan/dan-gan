@@ -1,7 +1,7 @@
 ## Hi, I'm Daniel 👋
 
-3rd-year Software Engineering student at Concordia University.  
-I enjoy building practical projects and improving my full-stack and systems skills.
+2nd-year Software Engineering at Concordia University  
+Mostly school projects on here. Trying to start my own projects  
 
 ### Recent Project
 - **SOEN 341 – Event Platform**  
@@ -10,6 +10,6 @@ I enjoy building practical projects and improving my full-stack and systems skil
 
 ### Interests
 - Full-stack development (React, Node.js)
-- Java, C, and data structures/algorithms
-- Systems, backend, and project architecture
+- Java 
+- Systems, backend, and architecture
 
