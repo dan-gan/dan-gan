@@ -21,5 +21,5 @@ Mostly school projects on here. Trying to start my own projects
 - Full-stack development (Django, React, Node.js)
 - Java, Python
 - Systems, backend, and architecture
-- Cybersecurity (Identity Access Management, Governance Identity & Administration, Capture the Flag)
+- Cybersecurity (Identity Access Management, Identity Governance & Administration, Capture the Flag)
 
