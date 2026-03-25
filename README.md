@@ -14,8 +14,8 @@ Mostly school projects on here. Trying to start my own projects
   Repo: https://github.com/dan-gan/SOEN-342 
   
 - **SOEN 341 – Event Platform**  
-  Full-stack web app for event browsing, calendars, maps, QR tickets, and admin tools
-  Repo: https://github.com/v1ctoriaD/Tin_Skins-SOEN341_Project_F25
+  Full-stack web app for event browsing, calendars, maps, QR tickets, and admin tools 
+  <br> Repo: https://github.com/v1ctoriaD/Tin_Skins-SOEN341_Project_F25
   
 ### Interests
 - Full-stack development (Django, React, Node.js)
