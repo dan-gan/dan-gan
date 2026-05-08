@@ -1,25 +1,30 @@
-## Hi, I'm Daniel 👋
+## Bio
 
-2nd-year Software Engineering at Concordia University  
-Mostly school projects on here. Trying to start my own projects  
+- 3rd-year Software Engineering at Concordia University  
+- Mostly school projects on here. I have many ideas but I'm stuck in prompting purgatory (ex: "best tech stack MVP")
+- Working on IAM certs
 
 ### Recent Projects
 
-- **SOEN 343 – Smart Urban Mobility Management System**  
-  Django web app (SQLite, MVC Architecture, GoF Patterns) for vehicle rentals, transit, parking, analytics, gamification  
-  Repo: https://github.com/ItsMavey/soen343
+- **SOEN 343 – Mobility Management System**
+  <br>Django web app (SQLite, MVC Layered Architecture, GoF Patterns, real time REST APIs) for vehicle rentals, transit, parking, analytics
+  <br>Cloud-Native Zero Trust Architecture via Tailscale, Docker container, Kubernetes (k3s) orchestration
+  <br>Deployed with Cloudflare: https://soen343.adam-ousmer.dev/ 
+  <br>Repo: https://github.com/ItsMavey/soen343
   
-- **SOEN 342 – Personal Task Management System**  
-  Java (OOP) Command Line Application to create, organize, and monitor tasks over time  
-  Repo: https://github.com/dan-gan/SOEN-342 
+- **SOEN 342 – Task Management System**  
+  Java CLI (Layered, SQLite) to create, organize, and monitor tasks over time
+  <br>Repo: https://github.com/dan-gan/SOEN-342 
   
 - **SOEN 341 – Event Platform**  
-  Full-stack web app for event browsing, calendars, maps, QR tickets, and admin tools 
+  Full-stack React web app for event browsing, calendars, maps, QR tickets, and admin tools 
   <br> Repo: https://github.com/v1ctoriaD/Tin_Skins-SOEN341_Project_F25
   
 ### Interests
-- Full-stack development (Django, React, Node.js)
-- Java, Python
-- Systems, backend, and architecture
-- Cybersecurity (Identity Access Management, Identity Governance & Administration, Capture the Flag)
-
+- Full-Stack Dev: Django, React, Node.js
+- Backend & DB: PostgreSQL, SQLite, Supabase
+- Cloud & Infra: Terraform, Cloudflare, Kubernetes (k3s), Docker/Podman
+- Networking: Tailscale (Zero Trust)
+- DevOps: CI/CD, Monitoring (New Relic)
+- Cybersecurity & IAM: Saviynt, SailPoint, Entra ID, Okta
+- Systems Design: MVC, Layered Architecture
